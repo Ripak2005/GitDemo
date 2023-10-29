@@ -1,0 +1,4 @@
+git add "File name"
+git status {for cheching status}
+git commit -m "Some message"
+git push origin main
