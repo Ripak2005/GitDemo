@@ -1,3 +1,4 @@
+git clone https (for remote to local) (remote means on github and local means on laptop/pc)
 git add "File name"
 git status {for cheching status}
 git commit -m "Some message"
